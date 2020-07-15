@@ -19,7 +19,7 @@ a {
 
 .top-wrapper {
   padding: 140px 0 250px 0;
-  background-image: url(Assets/Background.png);
+  background-image: url(Background.png);
   background-size: cover;
   color: white;
   text-align: left;
